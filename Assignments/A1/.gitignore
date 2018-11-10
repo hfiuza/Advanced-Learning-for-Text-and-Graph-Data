@@ -1,0 +1,9 @@
+.idea
+
+*.pdf
+
+data
+
+*.pyc
+
+*.zip
