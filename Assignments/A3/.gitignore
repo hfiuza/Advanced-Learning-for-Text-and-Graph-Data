@@ -1,0 +1,9 @@
+data
+
+*.bin.gz
+
+.idea
+
+*.png
+
+*.zip
